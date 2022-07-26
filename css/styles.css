@@ -1,0 +1,136 @@
+body {
+    height: 100%;
+    background-color: rgb(196, 196, 196);
+}
+
+#testimonials {
+    text-align: center;
+    background-color: #0597F2;
+    color: #ffffff;
+}
+
+
+.col-md {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+
+/* Features Section */
+
+#features {
+    padding: 7% 10%;
+    background-color: #0597F2;
+    position: relative;
+}
+
+.row {
+    margin: 2rem 2rem;
+    text-align: center;
+}
+
+.col-md {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.fa-heart:hover {
+    color: #ff4c68;
+}
+
+
+
+/* Footer Area */
+
+#footer {
+    background-color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.social-media-icon {
+    margin: 20px 10px;
+}
+
+
+#info {
+    color: #ffffff;
+    text-justify: distribute-all-lines;
+
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.cover {
+    padding: 0 1.5rem;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+.masthead-brand {
+    margin-bottom: 0;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: black;
+}
+
+/* Masthead */
+
+.nav-masthead .active {
+    color: #fff;
+    border-bottom-color: #fff;
+}
+
+.masthead-brand {
+    margin-bottom: 0;
+}
+
+.h1 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #ffffff;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+
+
+#profile{
+    padding-top: 20rem;
+}
+
+/* Cover */
+
+.card-title{
+
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.card-text{
+    font-size: x-large;
+}
