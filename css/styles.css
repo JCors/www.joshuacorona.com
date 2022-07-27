@@ -20,12 +20,26 @@ body {
 
 #features {
     padding: 7% 10%;
-    background-color: #0597F2;
+    background-color: #7EAED9;
     position: relative;
 }
 
 .row {
     margin: 2rem 2rem;
+    text-align: center;
+}
+
+.section-page-travel{
+    padding: 7%, 10%;
+    background-color:#697C8C;
+    position: relative;
+    text-align: center;
+}
+
+.section-page-contact{
+    padding: 7%, 10%;
+    background-color: #F2B84B;
+    position: relative;
     text-align: center;
 }
 
@@ -49,14 +63,13 @@ body {
 }
 
 .social-media-icon {
-    margin: 20px 10px;
+    margin: 10px;
 }
 
 
 #info {
     color: #ffffff;
     text-justify: distribute-all-lines;
-
     text-align: justify;
     text-justify: inter-word;
 }
@@ -82,6 +95,22 @@ body {
         transform: rotate(0);
     }
 }
+
+/* Travel Goals Section*/
+
+#travel-goals{
+ padding-top: 12rem;
+ padding-bottom: 12rem;
+
+}
+
+/* Contact Us */
+
+#contact{
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
+
 
 .masthead-brand {
     margin-bottom: 0;
